@@ -1,0 +1,12 @@
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\dto\AuthManagerRequestDto.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\dto\AuthManagerResponseDto.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\entity\Role.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\entity\User.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authentication\AuthmanagerRunner.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authentication\config\WebSecurityConfig.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\repository\UserRepository.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\utils\JwtFilter.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\controller\AuthManagerController.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\serviceImpl\UserDetailServiceImpl.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authmanager\utils\JwtUtil.java
+D:\regClient\MyWebApp\my-authentication-service\src\main\java\io\app\authentication\SpringFoxConfig.java
