@@ -2,7 +2,7 @@ node{
 def branch='master'
 def project='MyWebApp'
 
-stage(--------------mvn install----------){
+stage('--------------mvn install--------------'){
 	dir(branch+"/"+project){
 	sh 'mvn clean install'
 }
